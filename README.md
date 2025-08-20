@@ -5,6 +5,7 @@
 - GOAL: To keep growing, exploring, and making a difference  
 - STYLE: Curious, focused, and a little unconventional  
 
+
 - 🔭 I’m currently working on developing my skills. 
 - 🌱 I’m currently learning Networking, Linux, SQL, Security Fundamentals and more... 
 - 👯 I’m looking to collaborate on Entry-Level Python Projects or simple Graphic Design projects. 
@@ -12,4 +13,4 @@
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I like building computers. 
 
-     ![GitHub streak stats](https://streak-stats.demolab.com/?user=cyber-jiku)  
+    ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ![GitHub streak stats](https://streak-stats.demolab.com/?user=cyber-jiku)  
