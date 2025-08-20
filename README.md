@@ -1,5 +1,5 @@
 ‎<p align="center">
-![](https://github.com/cyber-jiku/cyber-jiku/blob/main/Made%20by%20Jiku!.png)
+[](https://github.com/cyber-jiku/cyber-jiku/blob/main/Made%20by%20Jiku!.png)
 </p>
 
 <p align="center">
