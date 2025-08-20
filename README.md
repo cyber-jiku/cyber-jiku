@@ -2,8 +2,12 @@
 ![](https://pbs.twimg.com/profile_banners/1958121230843961344/1755687551/1080x360)
 </p>
 
+<p align="center">
+  <hr style="width: 50%; border: 1px solid #000;">
+</p>
+
 ‎<p align="center">
-OCCUPATION: Problem solver and lifelong learner. INTERESTS: Technology, creative challenges, gaming. GOAL: To keep growing, exploring, and making a difference. STYLE: Curious, focused, and a little unconventional.
+A problem solver and lifelong learner, passionate about technology, creative challenges, and gaming. Always exploring new ideas, striving to grow, and making an impact along the way. Curious, focused, and a touch unconventional—ready to tackle whatever comes next.
 </p>
  
 
@@ -18,6 +22,10 @@ OCCUPATION: Problem solver and lifelong learner. INTERESTS: Technology, creative
 - 📫 How to reach me: Coming soon... 
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I like building computers. 
+
+<p align="center">
+  <hr style="width: 50%; border: 1px solid #000;">
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=cyber-jiku" alt="GitHub streak stats">
