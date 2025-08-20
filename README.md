@@ -5,6 +5,10 @@
 ‎ ‎ GOAL: To keep growing, exploring, and making a difference  
 ‎ ‎ STYLE: Curious, focused, and a little unconventional  
 
+<p align="center">
+  <hr style="width: 50%; border: 1px solid #000;">
+</p>
+
 
 - 🔭 I’m currently working on developing my skills. 
 - 🌱 I’m currently learning Networking, Linux, SQL, Security Fundamentals and more... 
