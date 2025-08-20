@@ -5,12 +5,10 @@
 <p align="center">
   <hr style="width: 50%; border: 1px solid #000;">
 </p>
-
 ‎<p align="center">
 A problem solver and lifelong learner, passionate about technology, creative challenges, and gaming. Always exploring new ideas, striving to grow, and making an impact along the way. Curious, focused, and a touch unconventional—ready to tackle whatever comes next.
 </p>
  
-
 <p align="center">
   <hr style="width: 50%; border: 1px solid #000;">
 </p>
