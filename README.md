@@ -20,7 +20,7 @@ A problem solver and lifelong learner, passionate about technology, creative cha
 - 📫 How to reach me: Coming soon... 
 - 😄 Pronouns: He/Him
 - 👱🏼‍♂️ Age:20
-- ⚡ Fun fact: I like building computers. 
+- ⚡ Fun fact: I like music and building computers. 
 
 <p align="center">
   <hr style="width: 50%; border: 1px solid #000;">
@@ -28,4 +28,8 @@ A problem solver and lifelong learner, passionate about technology, creative cha
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=cyber-jiku" alt="GitHub streak stats">
+</p>
+
+<p align="center">
+  <hr style="width: 50%; border: 1px solid #000;">
 </p>
