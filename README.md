@@ -1,5 +1,5 @@
 ‎<p align="center">
-![](https://pbs.twimg.com/profile_banners/1958121230843961344/1755687551/1080x360)
+![]https://github.com/cyber-jiku/cyber-jiku/blob/main/Made%20by%20Jiku!.png
 </p>
 
 <p align="center">
