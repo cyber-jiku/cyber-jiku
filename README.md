@@ -19,7 +19,7 @@ A problem solver and lifelong learner, passionate about technology, creative cha
 - 👯 I’m looking to collaborate on Entry-Level Python Projects or simple Graphic Design projects. 
 - 📫 How to reach me: Coming soon... 
 - 😄 Pronouns: He/Him
-- 👱🏼‍♂️ Age:20
+- 👱🏼‍♂️ Age: 20
 - ⚡ Fun fact: I like music and building computers. 
 
 <p align="center">
