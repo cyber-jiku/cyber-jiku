@@ -18,7 +18,8 @@ A problem solver and lifelong learner, passionate about technology, creative cha
 - 🌱 I’m currently learning Networking, Linux, SQL, Security Fundamentals and more... 
 - 👯 I’m looking to collaborate on Entry-Level Python Projects or simple Graphic Design projects. 
 - 📫 How to reach me: Coming soon... 
-- 😄 Pronouns: He/Him 
+- 😄 Pronouns: He/Him
+- 👱🏼‍♂️ Age:20
 - ⚡ Fun fact: I like building computers. 
 
 <p align="center">
